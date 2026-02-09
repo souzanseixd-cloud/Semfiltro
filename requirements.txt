@@ -1,4 +1,2 @@
 streamlit
-google-generativeai
-grpcio==1.60.0
-grpcio-status==1.60.0
+groq
